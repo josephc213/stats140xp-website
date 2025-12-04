@@ -1,0 +1,6 @@
+- source: project
+  netlify:
+    - id: e08710a2-7f39-46de-97c9-a87e79976779
+      url: https://josephchoi.netlify.app
+      
+    

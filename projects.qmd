@@ -1,0 +1,8 @@
+---
+toc: false
+format: html
+---
+
+| Project | PDF |
+|--------|-----|
+| STATS 101C Regression Project | [Download](projects/Regression Project Report.pdf) |

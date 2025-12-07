@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "personal website",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "text": "Project\nPDF\n\n\n\n\nProject 1\nDownload"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects.html#stats-101c-project",
+    "href": "projects.html#stats-101c-project",
+    "title": "",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.94974863 0.62611639 0.76397777 0.56368831 0.87473462 0.82504869\n [7] 0.81505255 0.88824117 0.01408184 0.78234314"
+    "text": "Here is the project"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joseph Choi",
+    "section": "",
+    "text": "I am a senior pursuing my bachelor degree at UCLA majoring in Statistics & Data Science. I’m passionate about applying statistical modeling, data analysis, and machine learning to real-world problems. My academic interests include predictive modeling, experimental design, and data-driven decision making After graduation, I hope to continue developing my skills through internships and eventually pursue a career in data science."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Joseph Choi",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA Bachelor in Statistics & Data Science | Sept 2024 - June 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Joseph Choi",
+    "section": "Experience",
+    "text": "Experience\n(none)\nDOWNLOAD RESUME"
   }
 ]

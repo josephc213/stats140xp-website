@@ -6,7 +6,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+  
+  page-footer: "&copy; 2025, Joseph Young-hun Choi"
 
 format:
   html:
@@ -15,6 +18,13 @@ format:
       - brand
     css: styles.css
     toc: true
+    published-title: 'last updated'
+    reference-location: document
+    code-fold: false
+    code-summary: ""
+    fontsize: 1.3em
 
 
+execute:
+  freeze: auto
 
